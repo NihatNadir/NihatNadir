@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nihat Nadir
 #### I am Mechatronics Engineer
-I am Mechatronics Engineer
+
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / SWIFT
