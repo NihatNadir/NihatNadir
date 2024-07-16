@@ -3,7 +3,7 @@
 
 
 
-Skills:   HTML / CSS / JS / SWIFT / VUE JS / REACT 
+
 
 - 🔭 I’m currently working on Patika.Dev 
 - 🌱 I’m currently learning .Net Core 
@@ -11,9 +11,18 @@ Skills:   HTML / CSS / JS / SWIFT / VUE JS / REACT
 - ⚡ Fun fact: PC Programs 
 
 Connect with me:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NihatNadir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nihat-nadir-borlu//)  
 
+Languages and Tools:
+Skills:   HTML / CSS / JS / SWIFT / VUE JS / REACT 
+<br />
 
+[vsCode]: https://code.visualstudio.com/
+[github]: https://github.com/IbrahimTalha
+[ios]: https://www.apple.com/ios/ios-14/
+
+<br />
 
 
 
