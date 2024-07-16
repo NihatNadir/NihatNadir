@@ -3,14 +3,14 @@
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / SWIFT
+Skills:   HTML / CSS / JS / SWIFT / VUE JS / REACT 
 
 - 🔭 I’m currently working on Patika.Dev 
 - 🌱 I’m currently learning .Net Core 
 - 📫 How to reach me: nihat.nadir.borlu@outlook.com 
 - ⚡ Fun fact: PC Programs 
 
-
+Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NihatNadir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nihat-nadir-borlu//)  
 
 
