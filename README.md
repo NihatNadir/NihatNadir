@@ -11,15 +11,40 @@ Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NihatNadir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nihat-nadir-borlu//)  
 
 Languages and Tools:
-Skills:   HTML / CSS / JS / [ios](https://www.apple.com/ios/ios-14/)SWIFT / VUE JS / REACT 
+- Skills:   HTML / CSS / JS / SWIFT / VUE JS / REACT / C#
 <br />
 
 [vsCode]: https://code.visualstudio.com/
-[github]: https://github.com/IbrahimTalha
+[github]: https://github.com/NihatNadir
 
+
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
+[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />][c#]
 
 <br />
 
+[c#]: https://www.w3schools.com/cs/index.php
+[css]: https://www.w3schools.com/css/default.asp
+[html]: https://www.w3schools.com/html/default.asp
+[react]: https://www.w3schools.com/react/default.asp
+[js]: https://www.w3schools.com/js/default.asp
+[ios]: https://www.apple.com/ios/ios-14/
+[vsCode]: https://code.visualstudio.com/
+[github]: https://github.com/NihatNadir
+[python]: https://www.python.org/
+
+
+
+<br />
+<br />
 
 
 <!--
