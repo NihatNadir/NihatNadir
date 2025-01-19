@@ -13,17 +13,17 @@ Connect with me:
 Technologies:
 <br />
 
-[<img align="left" alt="Swift" width="30px" src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" />][swift]
-[<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="Cascading Style Sheet" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />][c#]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Net Framework" width="30px" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" />][net]
-[<img align="left" alt="My SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
-[<img align="left" alt="PostgreSql" width="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />][postgre]
-[<img align="left" alt="SqLite" width="30px" src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000" />][sqlite]
+[<img align="left" alt="Swift" width="40px" src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" />][swift]
+[<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="Cascading Style Sheet" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />][c#]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Net Framework" width="40px" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" />][net]
+[<img align="left" alt="My SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
+[<img align="left" alt="PostgreSql" width="40px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />][postgre]
+[<img align="left" alt="SqLite" width="40px" src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000" />][sqlite]
 
 
 
@@ -34,10 +34,10 @@ Tools:
 <br />
 
 
-[<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />][visualS]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />][visualS]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 
-[<img align="left" alt="Git Version Control" width="30px" src="https://img.icons8.com/?size=100&id=tMD9pWKGn5oq&format=png&color=000000" />][git]
+[<img align="left" alt="Git Version Control" width="40px" src="https://img.icons8.com/?size=100&id=tMD9pWKGn5oq&format=png&color=000000" />][git]
 
 <br />
 <br />
