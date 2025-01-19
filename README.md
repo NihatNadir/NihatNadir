@@ -55,7 +55,7 @@ Tools:
 [vsCode]: https://code.visualstudio.com/
 [github]: https://github.com/NihatNadir
 [python]: https://www.python.org/
-[sql]: https://www.w3schools.com/sql/default.asp
+[sql]: https://www.mysql.com/
 [postgre]: https://www.postgresql.org/
 [net]: https://dotnet.microsoft.com/en-us/
 
