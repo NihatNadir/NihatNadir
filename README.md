@@ -21,7 +21,7 @@ Technologies:
 [<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Net Framework" width="40px" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" />][net]
-[<img align="left" alt="My SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
+[<img align="left" alt="SQL Server" width="40px" src="https://github.com/user-attachments/assets/d473d6f0-a9b9-4b56-a936-f44e2504d01d" />][sql]
 [<img align="left" alt="PostgreSql" width="40px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />][postgre]
 [<img align="left" alt="SqLite" width="40px" src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000" />][sqlite]
 
@@ -55,7 +55,7 @@ Tools:
 [js]: https://www.w3schools.com/js/default.asp
 [github]: https://github.com/NihatNadir
 [python]: https://www.python.org/
-[sql]: https://www.mysql.com/
+[sql]: https://www.microsoft.com/en-us/sql-server/
 [postgre]: https://www.postgresql.org/
 [net]: https://dotnet.microsoft.com/en-us/
 [sqlite]: https://www.sqlite.org/docs.html
