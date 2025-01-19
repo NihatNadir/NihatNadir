@@ -24,8 +24,6 @@ Technologies:
 [<img align="left" alt="My SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
 [<img align="left" alt="PostgreSql" width="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />][postgre]
 [<img align="left" alt="SqLite" width="30px" src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000" />][sqlite]
-[<img align="left" alt="Git Bash" width="30px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />][git]
-
 
 
 
