@@ -49,16 +49,14 @@ Tools:
 [c#]: https://www.w3schools.com/cs/index.php
 [css]: https://www.w3schools.com/css/default.asp
 [html]: https://www.w3schools.com/html/default.asp
-[react]: https://www.w3schools.com/react/default.asp
+[react]: https://react.dev/
 [js]: https://www.w3schools.com/js/default.asp
-[ios]: https://www.apple.com/ios/ios-14/
-[vsCode]: https://code.visualstudio.com/
 [github]: https://github.com/NihatNadir
 [python]: https://www.python.org/
 [sql]: https://www.mysql.com/
 [postgre]: https://www.postgresql.org/
 [net]: https://dotnet.microsoft.com/en-us/
-
+[sqlite]: https://www.sqlite.org/docs.html
 
 <br />
 <br />
