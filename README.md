@@ -18,11 +18,12 @@ Technologies:
 [<img align="left" alt="Cascading Style Sheet" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />][c#]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Net Framework" width="30px" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" />][net]
 [<img align="left" alt="My SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][sql]
-[<img align="left" alt="PostgreSql" width="30px" src="" />][postgre]
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="PostgreSql" width="30px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" />][postgre]
+
 
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="GitHub" width="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />][postgre]
