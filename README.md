@@ -39,7 +39,7 @@ Tools:
 <br />
 <br />
 
-[swift]:https://developer.apple.com/swift/
+[swift]: https://developer.apple.com/swift/
 [vsCode]: https://code.visualstudio.com/
 [github]: https://github.com/NihatNadir
 [c#]: https://www.w3schools.com/cs/index.php
