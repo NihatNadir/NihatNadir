@@ -37,7 +37,7 @@ Tools:
 [<img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />][visualS]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 
-[<img align="left" alt="Git Version Control" width="40px" src="https://img.icons8.com/?size=100&id=tMD9pWKGn5oq&format=png&color=000000" />][git]
+[<img align="left" alt="Git Version Control" width="40px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />][git]
 
 <br />
 <br />
