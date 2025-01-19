@@ -40,6 +40,9 @@ Tools:
 [<img align="left" alt="Swagger" width="40px" src="https://github.com/user-attachments/assets/9cd9284a-1df5-4b46-a121-a0a91a98f504" />][swagger]
 [<img align="left" alt="Postman" width="40px" src="https://github.com/user-attachments/assets/163641be-045e-4247-aab6-49a624a6ec20" />][postman]
 [<img align="left" alt="Git Version Control" width="40px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />][git]
+[<img align="left" alt="Trello" width="40px" src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000" />][trello]
+[<img align="left" alt="Jira" width="40px" src="https://github.com/user-attachments/assets/d836389b-158c-4e26-972e-1760cad14b06" />][jira]
+
 
 <br />
 <br />
@@ -63,6 +66,8 @@ Tools:
 [postman]: https://www.postman.com/
 [swagger]: https://swagger.io/
 [xcode]: https://developer.apple.com/xcode/
+[jira]: https://jira.atlassian.com/
+[trello]: https://trello.com/
 
 <br />
 <br />
