@@ -13,8 +13,7 @@ Connect with me:
 Technologies:
 <br />
 
-[vsCode]: https://code.visualstudio.com/
-[github]: https://github.com/NihatNadir
+
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -36,7 +35,8 @@ Technologies:
 Tools:
 <br />
 
-
+[vsCode]: https://code.visualstudio.com/
+[github]: https://github.com/NihatNadir
 [c#]: https://www.w3schools.com/cs/index.php
 [css]: https://www.w3schools.com/css/default.asp
 [html]: https://www.w3schools.com/html/default.asp
