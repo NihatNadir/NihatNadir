@@ -42,6 +42,7 @@ Tools:
 [<img align="left" alt="Git Version Control" width="40px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />][git]
 [<img align="left" alt="Trello" width="40px" src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000" />][trello]
 [<img align="left" alt="Jira" width="40px" src="https://github.com/user-attachments/assets/410f1d2c-1300-489a-b456-b7a8d9c25295" />][jira]
+[<img align="left" alt="Slack" width="40px" src="https://img.icons8.com/?size=100&id=4n94I13nDTyw&format=png&color=000000" />][slack]
 
 
 <br />
@@ -68,6 +69,7 @@ Tools:
 [xcode]: https://developer.apple.com/xcode/
 [jira]: https://jira.atlassian.com/
 [trello]: https://trello.com/
+[slack]: https://slack.com/intl/en-gb/
 
 <br />
 <br />
