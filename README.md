@@ -41,7 +41,7 @@ Tools:
 [<img align="left" alt="Postman" width="40px" src="https://github.com/user-attachments/assets/163641be-045e-4247-aab6-49a624a6ec20" />][postman]
 [<img align="left" alt="Git Version Control" width="40px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />][git]
 [<img align="left" alt="Trello" width="40px" src="https://img.icons8.com/?size=100&id=21049&format=png&color=000000" />][trello]
-[<img align="left" alt="Jira" width="40px" src="https://github.com/user-attachments/assets/d836389b-158c-4e26-972e-1760cad14b06" />][jira]
+[<img align="left" alt="Jira" height='40' src="https://github.com/user-attachments/assets/d836389b-158c-4e26-972e-1760cad14b06" />][jira]
 
 
 <br />
