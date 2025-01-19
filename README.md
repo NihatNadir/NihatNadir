@@ -36,7 +36,7 @@ Tools:
 
 [<img align="left" alt="Visual Studio" width="40px" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />][visualS]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Swagger" width="40px" src="https://github.com/user-attachments/assets/adfd3f84-c3d9-4f21-9127-ddb09724ef52" />][swagger]
+[<img align="left" alt="Swagger" width="40px" src="https://github.com/user-attachments/assets/e8b55add-d490-404b-a0dd-6f6a1da620e4" />][swagger]
 [<img align="left" alt="Postman" width="40px" src="https://github.com/user-attachments/assets/163641be-045e-4247-aab6-49a624a6ec20" />][postman]
 [<img align="left" alt="Git Version Control" width="40px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />][git]
 
